@@ -1,7 +1,7 @@
 # awesome-el-yum-repository-additional
 awesome EL(centos,redhat) additional yum repository
 
-[original](https://qiita.com/bezeklik/items/9766003c19f9664602fe)
+[original: https://qiita.com/bezeklik/items/9766003c19f9664602fe](https://qiita.com/bezeklik/items/9766003c19f9664602fe )
 
 yumリポジトリ一追加リスト 完全版
 様々な yum のリポジトリーを収集した。他にあればコメントで教えてください。
